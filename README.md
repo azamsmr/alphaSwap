@@ -84,7 +84,7 @@ Fully functional fork of UNI-V2 defi protocol with an added function to bootstra
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `azamsmr`, `alphaSwap`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `alphaSwap`, `Fully functional fork of UNI-V2 defi protocol with an added function to bootstrap liquidity from the original UniSwap. This allows the user to deposit LP tokens from UniSwap in order to provide liquidity to alphaSwap, in turn receiving the BonusToken "BTK". BTK will include a governance aspect which allows holders to vote on proposals for the future of the protocol.`
+`Fully functional fork of UNI-V2 defi protocol with an added function to bootstrap liquidity from the original UniSwap. This allows the user to deposit LP tokens from UniSwap in order to provide liquidity to alphaSwap, in turn receiving the BonusToken "BTK". BTK will include a governance aspect which allows holders to vote on proposals for the future of the protocol.`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
