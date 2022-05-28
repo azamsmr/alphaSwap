@@ -30,7 +30,7 @@ Fully functional fork of UNI-V2 defi protocol with an added function to bootstra
 <br />
 <div align="center">
   <a href="https://github.com/azamsmr/alphaSwap">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">alphaSwap</h3>
